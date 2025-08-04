@@ -1,13 +1,8 @@
-import Foter from "./componement/Foter";
-import Header from "./componement/Header"
-import Maincontent from "./componement/Maincontent"
-
+import JSXRules from './jsx/JSXRules'
 function App() {
   return (
     <div>
-      <Header />
-      <Maincontent />
-      <Foter />
+      <JSXRules />
     </div>
   )
 }
