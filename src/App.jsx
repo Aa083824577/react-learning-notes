@@ -1,8 +1,8 @@
-import Test from './03-dynamic-content/index'
+import Productlist from './04-list-render/Produitlist'
 function App() {
   return (
     <div>
-      <Test />
+      <Productlist/>
     </div>
   )
 }
