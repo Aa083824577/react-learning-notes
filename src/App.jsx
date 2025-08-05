@@ -1,8 +1,8 @@
-import JSXRules from './jsx/JSXRules'
+import Test from './03-dynamic-content/index'
 function App() {
   return (
     <div>
-      <JSXRules />
+      <Test />
     </div>
   )
 }
