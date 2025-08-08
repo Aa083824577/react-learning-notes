@@ -133,8 +133,3 @@ export default App;
 * Use `.join(", ")` to render arrays like hobbies nicely
 
 ```
-
----
-
-Let me know if you want it saved as a real `.md` file to upload, or if you want a version with screenshots or a `README.md` for the whole repo.
-```

@@ -1,7 +1,11 @@
-import Userprop from './05-props/Userprop'
+import Pass from './06-Conditional-Rendering/pass'
 function App() {
   return (
-    <Userprop />
+    <section>
+    
+    <Pass />
+
+    </section>
   )
 }
 
